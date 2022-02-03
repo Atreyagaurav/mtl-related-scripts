@@ -1,0 +1,11 @@
+* Mtl related scripts
+
+  
+** Introduction
+   This repo is collection of scripts I have written those are related to the mtl development mainly for japanese to english translation.
+
+  
+** Scripts List
+
+   TODO
+   
