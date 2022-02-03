@@ -1,0 +1,34 @@
+{
+    "basic": {
+	"　": " ",
+	"「": "\"",
+	"」": "\"",
+	"―": "-",
+	"『": "\"",
+	"』": "\""
+    },
+    "names": {
+    },
+    "last-names": {
+    },
+    "full-names": {
+    },
+    "specials":{},
+    "name-like":{
+	"お兄":"Onii",
+	"兄":"Nii",
+	"お姉":"Onee",
+	"姉":"Nee"
+    },
+    "honorifics" : {
+	"さん":"san",
+	"くん":"kun",
+	"ちゃん":"chan",
+	"君":"kun",
+	"様":"sama",
+	"先輩":"senpai",
+	"先生":"sensei",
+	"殿":"dono",
+	"上":"ue"
+    }
+}

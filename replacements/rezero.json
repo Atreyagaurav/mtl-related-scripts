@@ -1,0 +1,748 @@
+{
+  "specials": {
+    "血命の儀": "Lifeblood Ritual",
+    "『暴食』": "Gluttony",
+    "『魔女』": "Witch",
+    "姉上": "Ane-ue",
+    "兄上": "Ani-ue",
+    "旦那くん": "Husband-kun"
+  },
+  "basic": {
+    "　": " ",
+    "「": "\"",
+    "」": "\"",
+    "―": "-",
+    "『": "\"",
+    "』": "\"",
+    "△▼△▼△▼△": "*******"
+  },
+  "names": {
+    "Natsumi Schwartz": [
+      "ナツミ",
+      "シュバルツ"
+    ],
+    "Alviero Juukulius": [
+      "アルビエロ",
+      "ユークリウス"
+    ],
+    "Anastasia Hoshin": [
+      "アナスタシア",
+      "ホーシン"
+    ],
+    "Annerose Miload": [
+      "アンネローゼ",
+      "ミロード"
+    ],
+    "Arch Elior": [
+      "アーチ",
+      "エリオール"
+    ],
+    "Array Denkuts": [
+      "アレイ",
+      "デンクツ"
+    ],
+    "Balleroy Temeglyph": [
+      "バルロイ",
+      "テメグリフ"
+    ],
+    "Beli Hainelga": [
+      "ベリ",
+      "ハイネルガ"
+    ],
+    "Berstetz Fondalfon": [
+      "ベルステツ",
+      "フォンダルフォン"
+    ],
+    "Biehn Argyle": [
+      "ビーン",
+      "アーガイル"
+    ],
+    "Bordeaux Zellgef": [
+      "ボルドー",
+      "ツェルゲフ"
+    ],
+    "Bungam Isten": [
+      "ブンガム",
+      "イースタン"
+    ],
+    "Capella Emerada Lugnica": [
+      "カペラ",
+      "エメラダ",
+      "ルグニカ"
+    ],
+    "Carlan Astrea": [
+      "カルラン",
+      "アストレア"
+    ],
+    "Carol Remendis": [
+      "キャロル",
+      "レメンディス"
+    ],
+    "Cassiles van Astrea": [
+      "カッシルス",
+      "ヴァン",
+      "アストレア"
+    ],
+    "Cecilus Segmunt": [
+      "セシルス",
+      "セグムント"
+    ],
+    "Chisha Gold": [
+      "チシャ",
+      "ゴールド"
+    ],
+    "Chuden Agri": [
+      "チュデン",
+      "アグリ"
+    ],
+    "Colin Lavril": [
+      "コリン",
+      "ラブリル"
+    ],
+    "Conwood Melahau": [
+      "コンウッド",
+      "メラハウ"
+    ],
+    "Crane Donahue": [
+      "クレイン",
+      "ドナヒュー"
+    ],
+    "Crusch Karsten": [
+      "クルシュ",
+      "カルステン"
+    ],
+    "Dias Fatsbalm": [
+      "ディアス",
+      "ファッツバルム"
+    ],
+    "Doltero Amule": [
+      "ドルテロ",
+      "アムル"
+    ],
+    "Drizen Vollachia": [
+      "ドライゼン",
+      "ヴォラキア"
+    ],
+    "Dudley Miload": [
+      "ダドリー",
+      "ミロード"
+    ],
+    "Edda Rayfast": [
+      "エッダ",
+      "レイファスト"
+    ],
+    "Elsa Granhiert": [
+      "エルザ",
+      "グランヒルテ"
+    ],
+    "Emerada Lugnica": [
+      "エメラダ",
+      "ルグニカ"
+    ],
+    "Ezzo Cadner": [
+      "エッゾ",
+      "カドナ"
+    ],
+    "Farsale Lugnica": [
+      "ファルセイル",
+      "ルグニカ"
+    ],
+    "Felix Argyle": [
+      "フェリックス",
+      "アーガイル"
+    ],
+    "Flam Remendis": [
+      "フラム",
+      "レメンディス"
+    ],
+    "Ford Lugnica": [
+      "フォルド",
+      "ルグニカ"
+    ],
+    "Fourier Lugnica": [
+      "フーリエ",
+      "ルグニカ"
+    ],
+    "Framir Suwen": [
+      "フラミル",
+      "スーウェン"
+    ],
+    "Fred Thompson": [
+      "フレド",
+      "トンプソン"
+    ],
+    "Frederica Baumann": [
+      "フレデリカ",
+      "バウマン"
+    ],
+    "Fribal van Astrea": [
+      "フライバル",
+      "ヴァン",
+      "アストレア"
+    ],
+    "Galic Fabless": [
+      "ガリッチ",
+      "ファブレス"
+    ],
+    "Gaoran Peixit": [
+      "ガオラン",
+      "ペイシット"
+    ],
+    "Garek Thompson": [
+      "ギャレク",
+      "トンプソン"
+    ],
+    "Garfiel Tinsel": [
+      "ガーフィール",
+      "ティンゼル"
+    ],
+    "Gilian Endymion": [
+      "ギリアン",
+      "エンデュミオン"
+    ],
+    "Gionis Lugnica": [
+      "ジオニス",
+      "ルグニカ"
+    ],
+    "Goz Ralfon": [
+      "ゴズ",
+      "ラルフォン"
+    ],
+    "Grace Miload": [
+      "グレイス",
+      "ミロード"
+    ],
+    "Gramdart Holstoy": [
+      "グラムダート",
+      "ホルストイ"
+    ],
+    "Grassis Remendis": [
+      "グラシス",
+      "レメンディス"
+    ],
+    "Grimm Fauzen": [
+      "グリム",
+      "ファウゼン"
+    ],
+    "Groovy Gumlet": [
+      "グルービー",
+      "ガムレット"
+    ],
+    "Hannah Regret": [
+      "ハンナ",
+      "リグレット"
+    ],
+    "Heinkel Astrea": [
+      "ハインケル",
+      "アストレア"
+    ],
+    "Helena Karsten": [
+      "ヘレナ",
+      "カルステン"
+    ],
+    "Hetaro Pearlbaton": [
+      "ヘータロー",
+      "パールバトン"
+    ],
+    "Holosseo Featherrun": [
+      "ホロッセオ",
+      "フェザーラン"
+    ],
+    "Igor Kenash": [
+      "イゴール",
+      "ケナシュ"
+    ],
+    "Ina Kallard": [
+      "イーナ",
+      "カラード"
+    ],
+    "Jorah Pendleton": [
+      "ジョラー",
+      "ペンダルトン"
+    ],
+    "Joshua Juukulius": [
+      "ヨシュア",
+      "ユークリウス"
+    ],
+    "Julius Juukulius": [
+      "ユリウス",
+      "ユークリウス"
+    ],
+    "Kadomon Risch": [
+      "カドモン",
+      "リッシュ"
+    ],
+    "Kafma Irulux": [
+      "カフマ",
+      "イルルクス"
+    ],
+    "Ketty Muttart": [
+      "ケティ",
+      "ムッタート"
+    ],
+    "Kiritaka Muse": [
+      "キリタカ",
+      "ミューズ"
+    ],
+    "Klein Juukulius": [
+      "クライン",
+      "ユークリウス"
+    ],
+    "Lamia Godwin": [
+      "ラミア",
+      "ゴドウィン"
+    ],
+    "Leip Barielle": [
+      "ライプ",
+      "バーリエル"
+    ],
+    "Leslie Gabbat": [
+      "レスリー",
+      "ガバット"
+    ],
+    "Libre Fermi": [
+      "リブレ",
+      "フエルミ"
+    ],
+    "Liliana Masquerade": [
+      "リリアナ",
+      "マスカレード"
+    ],
+    "Logres Hyatt": [
+      "ログレス",
+      "ハイアット"
+    ],
+    "Louann Segmunt": [
+      "　ロウアン",
+      "セグムント"
+    ],
+    "Louanna Astrea": [
+      "ルアンナ",
+      "アストレア"
+    ],
+    "Louis Arneb": [
+      "ルイ",
+      "アルネブ"
+    ],
+    "Lusbel Kallard": [
+      "ルスベル",
+      "カラード"
+    ],
+    "Lye Batenkaitos": [
+      "ライ",
+      "バテンカイトス"
+    ],
+    "Makarista Perkin": [
+      "マカリスタ",
+      "パーキン"
+    ],
+    "Manfred Madison": [
+      "マンフレッド",
+      "マディソン"
+    ],
+    "Marcos Gildark": [
+      "マーコス",
+      "ギルダーク"
+    ],
+    "Marone Lisbon": [
+      "マローネ",
+      "リズボン"
+    ],
+    "Mazeran Suwen": [
+      "マゼラン",
+      "スーウェン"
+    ],
+    "Meckart Karsten": [
+      "メッカート",
+      "カルステン"
+    ],
+    "Meili Portroute": [
+      "メィリィ",
+      "ポートルート"
+    ],
+    "Melty Pristis": [
+      "メルティ",
+      "プリスティス"
+    ],
+    "Miklotov McMahon": [
+      "マイクロトフ",
+      "マクマホン"
+    ],
+    "Milde Irlam": [
+      "ミルデ",
+      "アーラム"
+    ],
+    "Mimi Pearlbaton": [
+      "ミミ",
+      "パールバトン"
+    ],
+    "Mogro Hagane": [
+      "モグロ",
+      "ハガネ"
+    ],
+    "Muslan Kallard": [
+      "ムスラン",
+      "カラード"
+    ],
+    "Natsuki Rigel": [
+      "ナツキ",
+      "リゲル"
+    ],
+    "Natsuki Spica": [
+      "ナツキ",
+      "スピカ"
+    ],
+    "Natsuki Subaru": [
+      "ナツキ",
+      "スバル"
+    ],
+    "Neiji Rockheart": [
+      "ネイジ",
+      "ロックハート"
+    ],
+    "Olbart Dunkelkenn": [
+      "オルバルト",
+      "ダンクルケン"
+    ],
+    "Ornea Featherrun": [
+      "オルニア",
+      "フェザーラン"
+    ],
+    "Oslo Suwen": [
+      "オスロー",
+      "スーウェン"
+    ],
+    "Otto Suwen": [
+      "オットー",
+      "スーウェン"
+    ],
+    "Petra Leyte": [
+      "ペトラ",
+      "レイテ"
+    ],
+    "Pivot Arnancy": [
+      "ピボット",
+      "アーナンシー"
+    ],
+    "Plum Risch": [
+      "プラム",
+      "リッシュ"
+    ],
+    "Priscilla Barielle": [
+      "プリシラ",
+      "バーリエル"
+    ],
+    "Rachins Hoffman": [
+      "ラチンス ホフマン"
+    ],
+    "Rafiel Thompson": [
+      "ラフィール",
+      "トンプソン"
+    ],
+    "Raksha Risch": [
+      "ラクシャ",
+      "リッシュ"
+    ],
+    "Randohal Lugnica": [
+      "ランドハル",
+      "ルグニカ"
+    ],
+    "Razak Gildark": [
+      "ラザック",
+      "ギルダーク"
+    ],
+    "Reala Thompson": [
+      "リアラ",
+      "トンプソンリーシア"
+    ],
+    "Regin Suwen": [
+      "レギン",
+      "スーウェン"
+    ],
+    "Regulus Corneas": [
+      "レグルス",
+      "コルニアス"
+    ],
+    "Reid Astrea": [
+      "レイド",
+      "アストレア"
+    ],
+    "Reinhard van Astrea": [
+      "ラインハルト",
+      "ヴァン",
+      "アストレア"
+    ],
+    "Ricardo Welkin": [
+      "リカード",
+      "ウェルキン"
+    ],
+    "Riften Mogoji": [
+      "リフテン",
+      "マゴージ"
+    ],
+    "Roswaal J Mathers": [
+      "ロズワール",
+      "J",
+      "メイザース"
+    ],
+    "Roswaal K Mathers": [
+      "ロズワール",
+      "K",
+      "メイザース"
+    ],
+    "Roswaal L Mathers": [
+      "ロズワール",
+      "L",
+      "メイザース"
+    ],
+    "Roy Alphard": [
+      "ロイ",
+      "アルファルド"
+    ],
+    "Rudar Iglesia": [
+      "ルダー",
+      "イグレシア"
+    ],
+    "Russell Fellow": [
+      "ラッセル",
+      "フェロー"
+    ],
+    "Sakura Element": [
+      "サクラ",
+      "エレメント"
+    ],
+    "Salum Pristis": [
+      "サラム",
+      "プリスティス"
+    ],
+    "Serena Dracroy": [
+      "セリーナ",
+      "ドラクロ"
+    ],
+    "Shiroro Tonerico": [
+      "シロロ",
+      "トネリコ"
+    ],
+    "Sithonia Featherrun": [
+      "シトニア",
+      "フェザーラン"
+    ],
+    "Stride Vollachia": [
+      "ストライド",
+      "ヴォラキア"
+    ],
+    "Thames Astrea": [
+      "テムズ",
+      "アストレア"
+    ],
+    "Theresia van Astrea": [
+      "テレシア",
+      "ヴァン",
+      "アストレア"
+    ],
+    "Tholter Weasily": [
+      "トルタ",
+      "ウィズリー"
+    ],
+    "Tiga Rauleon": [
+      "ティーガ",
+      "ラウレオン"
+    ],
+    "Tishua Astrea": [
+      "ティシュア",
+      "アストレア"
+    ],
+    "Tivey Pearlbaton": [
+      "ティビー",
+      "パールバトン"
+    ],
+    "Todd Fang": [
+      "トッド",
+      "ファング"
+    ],
+    "Valga Cromwell": [
+      "バルガ",
+      "クロムウェル"
+    ],
+    "Veltol Astrea": [
+      "ベルトール",
+      "アストレア"
+    ],
+    "Victor Orcos": [
+      "ヴィクター",
+      "オルコス"
+    ],
+    "Vincent Vollachia": [
+      "ヴィンセント",
+      "ヴォラキア"
+    ],
+    "Vincent Abellux": [
+      "ヴィンセント",
+      "アベルクス"
+    ],
+    "Wilhelm van Astrea": [
+      "ヴィルヘルム",
+      "ヴァン",
+      "アストレア"
+    ],
+    "Yae Tenzen": [
+      "ヤエ",
+      "テンゼン"
+    ],
+    "Yaktol Suwen": [
+      "ヤクトル",
+      "スーウェン"
+    ],
+    "Yorna Mishigure": [
+      "ヨルナ",
+      "ミシグレ"
+    ],
+    "Zabinel Lugnica": [
+      "ザビーネル",
+      "ルグニカ"
+    ],
+    "Zelga Iglesia": [
+      "ゼルガ",
+      "イグレシア"
+    ],
+    "Zikr Osman": [
+      "ズィクル",
+      "オスマン"
+    ]
+  },
+  "single-names": {
+    "Al": "アル",
+    "Alcor": "アルコル",
+    "Arakiya": "アラキア",
+    "Beatrice": "ベアトリス",
+    "Caerulein": "セルレイン",
+    "Cain": "カイン",
+    "Camberley": "カンバリー",
+    "Carmilla": "カーミラ",
+    "Chamov": "チャモフ",
+    "Chap": "チャップ",
+    "Clind": "クリンド",
+    "Colette": "コレット",
+    "Daphne": "ダフネ",
+    "Darts": "ダーツ",
+    "Didorii": "ディドリー",
+    "Dine": "ダイン",
+    "Dorkell": "ドルケル",
+    "Dynas": "ダイナス",
+    "Echidna": "エキドナ",
+    "Emilia": "エミリア",
+    "Faust": "ファウスト",
+    "Felt": "フェルト",
+    "Fene": "フェネ",
+    "Flugel": "フリューゲル",
+    "Fogg": "フォッグ",
+    "Fortuna": "フォルトナ",
+    "Frufoo": "フルフー",
+    "Gaston": "ガストン",
+    "Godrov": "ゴドロフ",
+    "Halibel": "ハリベル",
+    "Hector": "ヘクトール",
+    "Helain": "へレイン",
+    "Holly": "ホーリィ",
+    "Hornet": "ホーネット",
+    "Ilya": "イリア",
+    "Jamal": "ジャマル",
+    "Kalifa": "カリファ",
+    "Korrina": "コリーナ",
+    "Kuna": "クーナ",
+    "Kurgan": "クルガン",
+    "Lucas": "リュカ",
+    "Lyra": "ライラ",
+    "Meina": "メイーナ",
+    "Melakuera": "メラクェラ",
+    "Melinda": "メリンダ",
+    "Mild": "ミルド",
+    "Miles": "マイルズ",
+    "Mimoza": "ミモザ",
+    "Minerva": "ミネルヴァ",
+    "Miser": "ミゼール",
+    "Mizelda": "ミゼルダ",
+    "Mozorite": "モゾリテ",
+    "Muraosa": "ムラオサ",
+    "Muspel": "ムスペル",
+    "Odglass": "オドグラス",
+    "Omega": "オメガ",
+    "Orphe": "オルフェ",
+    "Palmyra": "パルミラ",
+    "Pandora": "パンドラ",
+    "Patrasche": "パトラッシュ",
+    "Pooka": "プーカ",
+    "Puck": "パック",
+    "Quark": "クオーク",
+    "Raizo": "ライゾー",
+    "Ram": "ラム",
+    "Razcrew": "ラズクルー",
+    "Reisel": "ライゼル",
+    "Reize": "レーゼ",
+    "Rem": "レム",
+    "Rickert": "リッケルト",
+    "Rodriguez": "ロドリゲス",
+    "Roshi": "ローシ",
+    "Sado": "サド",
+    "Safis": "サーフィス",
+    "Satella": "サテラ",
+    "Schult": "シュルト",
+    "Sekhmet": "セクメト",
+    "Sergei": "セルゲイ",
+    "Setanta": "セタンタ",
+    "Shaknar": "シャクナール",
+    "Shasuke": "シャスケ",
+    "Shaula": "シャウラ",
+    "Shion": "シオン",
+    "Sirius": "シリウス",
+    "Sphinx": "スピンクス",
+    "Sylphy": "シルフィ",
+    "Tanza": "タンザ",
+    "Taritta": "タリッタ",
+    "Temae": "テマエ",
+    "Tina": "ティーナ",
+    "Tiriena": "ティリエナ",
+    "Toska": "トスカ",
+    "Toto": "トト",
+    "Typhon": "テュフォン",
+    "Ubilk": "ウビールク",
+    "Utakata": "ウタカタ",
+    "Valgren": "バルグレン",
+    "Volcanica": "ボルカニカ",
+    "Wolf": "ウォルフ",
+    "Zarestia": "ザーレスティア"
+  },
+  "full-names": {
+    "Natsuki Subaru": [
+      "菜月",
+      "昴"
+    ],
+    "Natsuki Kenichi": [
+      "菜月",
+      "賢一"
+    ],
+    "Natsuki Naoko": [
+      "菜月",
+      "菜穂子"
+    ]
+  },
+  "name-like": {
+    "Onii": "お兄",
+    "Nii": "兄",
+    "Onee": "お姉",
+    "Nee": "姉"
+  },
+  "honorifics": {
+    "さん": "san",
+    "くん": "kun",
+    "ちゃん": "chan",
+    "ちん": "chin",
+    "君": "kun",
+    "様": "sama",
+    "先輩": "senpai",
+    "先生": "sensei",
+    "殿": "dono",
+    "上": "ue",
+    "たん": "tan"
+  }
+}
