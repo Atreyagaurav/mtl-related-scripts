@@ -1,11 +1,17 @@
 * Mtl related scripts
 
-  
+
 ** Introduction
    This repo is collection of scripts I have written those are related to the mtl development mainly for japanese to english translation.
 
-  
+
 ** Scripts List
 
-   TODO
-   
+
+*** preprocess.py
+
+    pre process a file to replace terms, names and honorifics.
+
+*** deepl.py
+    Uses selenium to process text files into deepl chunk by chunk.
+

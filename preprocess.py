@@ -16,7 +16,7 @@ class Names(Flag):
     FIRST_NAME = 2
     FULL_AND_FIRST = 3
     LAST_NAME = 4
-    FULL_AND_LAST = 5 
+    FULL_AND_LAST = 5
     FIRST_AND_LAST = 6
     ALL_NAMES = 7
 
@@ -30,6 +30,7 @@ text = ''
 rep = dict()
 total_replacements = 0
 JP_NAME_SEPS = ["・", ""]
+
 
 def out_filename(in_file):
     p, e = os.path.splitext(in_file)
