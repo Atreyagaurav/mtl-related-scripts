@@ -1,0 +1,117 @@
+{
+  "basic": {
+    "　": " ",
+    "「": "\"",
+    "」": "\"",
+    "―": "-",
+    "『": "\"",
+    "』": "\""
+  },
+  "names": {
+    "Aki Tomoya": [
+      "安芸",
+      "倫也"
+    ],
+    "Azumi Seiji": [
+      "安曇",
+      "誠司"
+    ],
+    "Endō Miharu": [
+      "炎藤",
+      "美晴留"
+    ],
+    "Hashima Iori": [
+      "波島",
+      "伊織"
+    ],
+    "Hashima Izumi": [
+      "波島",
+      "出海"
+    ],
+    "Himekawa Tokino": [
+      "姫川",
+      "時乃"
+    ],
+    "Hinoe Ruri": [
+      "丙",
+      "瑠璃"
+    ],
+    "Hyōdō Michiru": [
+      "氷堂",
+      "美智留"
+    ],
+    "Kamigō Yoshihiko": [
+      "上郷",
+      "喜彦"
+    ],
+    "Kanō Meguri": [
+      "叶",
+      "巡璃"
+    ],
+    "Kasumigaoka Utaha": [
+      "霞ヶ丘",
+      "詩羽"
+    ],
+    "Katō Keiichi": [
+      "加藤",
+      "圭一"
+    ],
+    "Katō Megumi": [
+      "加藤",
+      "恵"
+    ],
+    "Kawamura Supaidā Kirari": [
+      "河村",
+      "スパイダー",
+      "きらり"
+    ],
+    "Kosaka Akane": [
+      "紅坂",
+      "朱音"
+    ],
+    "Machida Sonoko": [
+      "町田",
+      "苑子"
+    ],
+    "Mizuhara Echika": [
+      "水原",
+      "叡智佳"
+    ],
+    "Morioka Ranko": [
+      "森丘",
+      "藍子"
+    ],
+    "Sawamura Sayuri": [
+      "澤村",
+      "小百合"
+    ],
+    "Sawamura Supensā Eriri": [
+      "澤村",
+      "スペンサー",
+      "英梨々"
+    ],
+    "Soma Hinoe": [
+      "丙",
+      "双真"
+    ]
+  },
+  "last-names": {},
+  "specials": {},
+  "name-like": {
+    "お兄": "Onii",
+    "兄": "Nii",
+    "お姉": "Onee",
+    "姉": "Nee"
+  },
+  "honorifics": {
+    "さん": "san",
+    "くん": "kun",
+    "ちゃん": "chan",
+    "君": "kun",
+    "様": "sama",
+    "先輩": "senpai",
+    "先生": "sensei",
+    "殿": "dono",
+    "上": "ue"
+  }
+}
